@@ -27421,6 +27421,7 @@
 ./poc/cve/CVE-2020-26935.yaml
 ./poc/cve/CVE-2020-26948.yaml
 ./poc/cve/CVE-2020-26948_1.yaml
+./poc/cve/CVE-2020-26948_1_1.yaml
 ./poc/cve/CVE-2020-27191.yaml
 ./poc/cve/CVE-2020-27191_1.yaml
 ./poc/cve/CVE-2020-27191_2.yaml
@@ -108481,6 +108482,7 @@
 ./poc/detect/cleo-detect_3.yaml
 ./poc/detect/cleo-detect_4.yaml
 ./poc/detect/cleo-detect_5.yaml
+./poc/detect/cleo-detect_6.yaml
 ./poc/detect/clickhouse-db-detect.yaml
 ./poc/detect/clickhouse-db-detect_1.yaml
 ./poc/detect/cloudflare-nginx-detect.yaml
@@ -124870,6 +124872,7 @@
 ./poc/other/anydesk-phish_1.yaml
 ./poc/other/anydesk-phish_1_1.yaml
 ./poc/other/anydesk-phish_1_2.yaml
+./poc/other/anydesk-phish_2.yaml
 ./poc/other/anyfont-dee55e94d65e5c202ce055d3c697d280.yaml
 ./poc/other/anyfont.yaml
 ./poc/other/anyfont_1.yaml
@@ -126612,6 +126615,7 @@
 ./poc/other/battlenet-phish_1.yaml
 ./poc/other/battlenet-phish_1_1.yaml
 ./poc/other/battlenet-phish_2.yaml
+./poc/other/battlenet-phish_3.yaml
 ./poc/other/bauernregeln-8443e67ced563afdafab20485c810d8f.yaml
 ./poc/other/bauernregeln.yaml
 ./poc/other/baw-post-views-count-1f1423fe07e3e5dc127b8184f9c5bf2b.yaml
@@ -134021,6 +134025,7 @@
 ./poc/other/deezer-phish_1_1.yaml
 ./poc/other/deezer-phish_1_1_1.yaml
 ./poc/other/deezer-phish_1_2.yaml
+./poc/other/deezer-phish_2.yaml
 ./poc/other/defa-online-image-protector-00290915039a2ceac8f656be5e0f2e2f.yaml
 ./poc/other/defa-online-image-protector.yaml
 ./poc/other/defa-online-image-protector_1.yaml
@@ -134515,6 +134520,7 @@
 ./poc/other/discord-phish_1.yaml
 ./poc/other/discord-phish_1_1.yaml
 ./poc/other/discord-phish_2.yaml
+./poc/other/discord-phish_3.yaml
 ./poc/other/discourse-installer.yaml
 ./poc/other/discourse-installer_1.yaml
 ./poc/other/discourse-installer_2.yaml
@@ -174613,6 +174619,7 @@
 ./poc/remote_code_execution/bitpay-checkout-for-woocommerce-9f687dc228a54cf40527d75fb8d70f1d.yaml
 ./poc/remote_code_execution/bitpay-checkout-for-woocommerce.yaml
 ./poc/remote_code_execution/bitpay-checkout-for-woocommerce_1.yaml
+./poc/remote_code_execution/bitrix-esol-excel-rce.yaml
 ./poc/remote_code_execution/bitrix-landing-rce.yaml
 ./poc/remote_code_execution/bitrix-landing-rce_1.yaml
 ./poc/remote_code_execution/bitrixrestorerce.yaml

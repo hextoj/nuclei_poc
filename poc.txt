@@ -99772,6 +99772,7 @@
 ./poc/cve/CVE-2025-3649-8a32d4c6e451d266cbd67bd98b0e1235.yaml
 ./poc/cve/CVE-2025-3661-65a22e7d30da80b61dcdfa8672b41e0b.yaml
 ./poc/cve/CVE-2025-3670-5cc432382c3600eef8bc4ac30b7c8dad.yaml
+./poc/cve/CVE-2025-3715-c5276e01ae44e909c32379b751923b5c.yaml
 ./poc/cve/CVE-2025-3743-c3e481d708de4ceacea1c932e92f1502.yaml
 ./poc/cve/CVE-2025-3746-fe18fe0fc66ae11030a8c34676af215a.yaml
 ./poc/cve/CVE-2025-3748-8ad4fdad75a50ef71095f773a9784c22.yaml
@@ -128314,6 +128315,7 @@
 ./poc/other/bold-page-builder-61e0c63fe15ef683d1805b659ebb2311.yaml
 ./poc/other/bold-page-builder-7888cca74e8d80504831223d5a266515.yaml
 ./poc/other/bold-page-builder-7df00469984e5e49657c5022f1654cd8.yaml
+./poc/other/bold-page-builder-7f12a2054e6a603859220c3a03bb00aa.yaml
 ./poc/other/bold-page-builder-8636b03b4475618499f12f0a6bad81ec.yaml
 ./poc/other/bold-page-builder-9b5216770d7b3860e40f4c2bd5b2cf64.yaml
 ./poc/other/bold-page-builder-a87891e01d2fc9141a2401b7ab4f775a.yaml

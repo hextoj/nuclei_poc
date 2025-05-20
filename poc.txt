@@ -2865,6 +2865,7 @@
 ./poc/auth/drupal_module-mail_login-access-bypass.yaml
 ./poc/auth/drupal_module-mail_login-access-bypass_1.yaml
 ./poc/auth/drupal_module-mail_login-access-bypass_2.yaml
+./poc/auth/drupal_module-mail_login-access-bypass_3.yaml
 ./poc/auth/drupal_module-miniorange_oauth_client-cross-site-scripting.yaml
 ./poc/auth/drupal_module-miniorange_oauth_client-multiple-vulnerabilities.yaml
 ./poc/auth/drupal_module-miniorange_oauth_client-multiple-vulnerabilities_1.yaml
@@ -43770,6 +43771,7 @@
 ./poc/cve/CVE-2022-31126_3.yaml
 ./poc/cve/CVE-2022-31126_4.yaml
 ./poc/cve/CVE-2022-31126_5.yaml
+./poc/cve/CVE-2022-31126_6.yaml
 ./poc/cve/CVE-2022-31137.yaml
 ./poc/cve/CVE-2022-31137_1.yaml
 ./poc/cve/CVE-2022-31161.yaml
@@ -92714,6 +92716,8 @@
 ./poc/cve/CVE-2024-5871-bdd808d6a9eceafe261c336341d9e130.yaml
 ./poc/cve/CVE-2024-5871.yaml
 ./poc/cve/CVE-2024-5871_1.yaml
+./poc/cve/CVE-2024-5878-0afc5f18eba187ac48699a9c5f1e5590.yaml
+./poc/cve/CVE-2024-5878-8065a991a87a0c09b43972abd0b0780b.yaml
 ./poc/cve/CVE-2024-5879-15e47d64ae81bc253ae61d7b9ab17d63.yaml
 ./poc/cve/CVE-2024-5879.yaml
 ./poc/cve/CVE-2024-5880-da35cf349d9e9d256e9d4d267817f858.yaml
@@ -100089,6 +100093,7 @@
 ./poc/cve/CVE-2025-4396-69b1e0599ae38fdf1df43c0f70fd3136.yaml
 ./poc/cve/CVE-2025-4396.yaml
 ./poc/cve/CVE-2025-4403-b5e0548c92dd536331a22a46fc937d35.yaml
+./poc/cve/CVE-2025-4427-fix.yaml
 ./poc/cve/CVE-2025-4427.yaml
 ./poc/cve/CVE-2025-4434-2dda4232c4638e22dbd3b3121f061d1e.yaml
 ./poc/cve/CVE-2025-4473-bf31f28880763f9d897303bb7524ca31.yaml
@@ -151435,6 +151440,7 @@
 ./poc/other/motor-racing-league_1.yaml
 ./poc/other/motor.yaml
 ./poc/other/motor_1.yaml
+./poc/other/motors-83b8e5f5c1eaa74eaf3ed0e32929bc5e.yaml
 ./poc/other/motors-88bb71d7c9ae2c0f2eca2c2bfaa1c719.yaml
 ./poc/other/motors-car-dealership-classified-listings-1056e4b8be2a6d02c613803a099bf46b.yaml
 ./poc/other/motors-car-dealership-classified-listings-1ded3fe575b8382428334e975303462c.yaml
@@ -152805,6 +152811,7 @@
 ./poc/other/nextgen-gallery-d017ae37fc8ef1a1ff5cea011e4b4396.yaml
 ./poc/other/nextgen-gallery-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/other/nextgen-gallery-d4e96938ee38fa38433ce148252bff2c.yaml
+./poc/other/nextgen-gallery-deb7fec06f47dae2c7b362d7cce547e3.yaml
 ./poc/other/nextgen-gallery-e13884cf4af4dac1bd6f3a0c0c8886c1.yaml
 ./poc/other/nextgen-gallery-f0832d520e5c480ff4a9e673f1914807.yaml
 ./poc/other/nextgen-gallery-f4b17f7ff049d1899614e09d66161e0d.yaml
@@ -153750,6 +153757,7 @@
 ./poc/other/open-proxy-external_1.yaml
 ./poc/other/open-proxy-external_2.yaml
 ./poc/other/open-proxy-external_3.yaml
+./poc/other/open-proxy-localhost-9292.yaml
 ./poc/other/open-rdw-kenteken-voertuiginformatie-3752954a43659b9482b98a260268ba41.yaml
 ./poc/other/open-rdw-kenteken-voertuiginformatie.yaml
 ./poc/other/open-rdw-kenteken-voertuiginformatie_1.yaml
@@ -162874,6 +162882,7 @@
 ./poc/other/simplelife-88c75c0c1173010da3cb0fe708ae25ed.yaml
 ./poc/other/simplelife.yaml
 ./poc/other/simplelife_1.yaml
+./poc/other/simplelightbox-deb7fec06f47dae2c7b362d7cce547e3.yaml
 ./poc/other/simplemap-78ec8ff18395bc53ceb6a8c5b60b5bf7.yaml
 ./poc/other/simplemap.yaml
 ./poc/other/simplemap_1.yaml
@@ -174985,6 +174994,7 @@
 ./poc/php/thinkphp-5022-rce-10747.yaml
 ./poc/php/thinkphp-5022-rce-10747_1.yaml
 ./poc/php/thinkphp-5022-rce.yaml
+./poc/php/thinkphp-5022-rce_1.yaml
 ./poc/php/thinkphp-5023-rce-10748.yaml
 ./poc/php/thinkphp-5023-rce-10748_1.yaml
 ./poc/php/thinkphp-5023-rce-10749.yaml
@@ -185962,6 +185972,7 @@
 ./poc/sql/CVE-2025-4188-ab709a128125951ecd82e6db2af9f67d.yaml
 ./poc/sql/CVE-2025-4204-3356902163d57818c0effac7225dbb16.yaml
 ./poc/sql/CVE-2025-4279-406ac79f35f674376b4c7d74d6db4d5f.yaml
+./poc/sql/CVE-2025-4322-6fdbac259c06e66f1fc3cf5a03cd0c47.yaml
 ./poc/sql/CVE-2025-43833-d6e5b7e854edb24b01d33ebd510fbb30.yaml
 ./poc/sql/CVE-2025-43836-fc97c3f94db896bb7c6ed37b3605e1c6.yaml
 ./poc/sql/CVE-2025-4389-dcbfb07dc669f1db2593fd06838be4bc.yaml
@@ -200096,6 +200107,7 @@
 ./poc/wordpress/wordpress-users_1.yaml
 ./poc/wordpress/wordpress-video-9321a357279b4668993d8aec57052165.yaml
 ./poc/wordpress/wordpress-video.yaml
+./poc/wordpress/wordpress-weak-credentials-11336.yaml
 ./poc/wordpress/wordpress-weak-credentials.yaml
 ./poc/wordpress/wordpress-website-detect.yaml
 ./poc/wordpress/wordpress-whois-search-15d0f2f1bcb62f9575544a5207b1af33.yaml

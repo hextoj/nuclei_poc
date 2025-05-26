@@ -110729,6 +110729,7 @@
 ./poc/detect/pi-hole-detect_2.yaml
 ./poc/detect/piwigo-detect.yaml
 ./poc/detect/piwigo-detect_1.yaml
+./poc/detect/plantuml-detect.yaml
 ./poc/detect/plantumlserver-detect.yaml
 ./poc/detect/plone-cms-detect-9606.yaml
 ./poc/detect/plone-cms-detect-9606_1.yaml

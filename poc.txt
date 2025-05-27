@@ -896,6 +896,7 @@
 ./poc/api/mstore-api-a1fd15e9b76a3b82e1c25ef611ae13f2.yaml
 ./poc/api/mstore-api-a57c8c0705eb9b80f8f4283e89729950.yaml
 ./poc/api/mstore-api-b04821f92bc1fa09ad4daf81d27d02ea.yaml
+./poc/api/mstore-api-b6a9c539239ea84c7c468c6b48588179.yaml
 ./poc/api/mstore-api-cbc5f2dade7ffd73dc94047427495160.yaml
 ./poc/api/mstore-api-d2b388339242c720f46cbe77baee82e9.yaml
 ./poc/api/mstore-api-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -100357,6 +100358,8 @@
 ./poc/cve/CVE-2025-46541-9a22bf13acd0ad7ed5a98c3647cf6e51.yaml
 ./poc/cve/CVE-2025-46542-de136d6eb5ccec5b1572a9a5ed267558.yaml
 ./poc/cve/CVE-2025-46543-3b7379386aaa50148a8629092a90c4b6.yaml
+./poc/cve/CVE-2025-4682-f1c1635835ea4149fbaa955652368073.yaml
+./poc/cve/CVE-2025-4683-634a7e0e188697bd2804d2427647f910.yaml
 ./poc/cve/CVE-2025-47204.yaml
 ./poc/cve/CVE-2025-47437-e2a3308f6f3708d805410d584f8b1b99.yaml
 ./poc/cve/CVE-2025-47438-5014f34943dcd4721a29f90b33f7c2d0.yaml
@@ -100551,6 +100554,7 @@
 ./poc/cve/CVE-2025-47691-d7a5d31de29124139222e2a5ad191951.yaml
 ./poc/cve/CVE-2025-47692-1ccbcd12fa40293ba7c999b3e15e488a.yaml
 ./poc/cve/CVE-2025-47693-3894dea37d7bae46b38ed976a8c2fefd.yaml
+./poc/cve/CVE-2025-4783-7bfe03978466d36457c691bd24547e27.yaml
 ./poc/cve/CVE-2025-48079-07489b83e94b855b879eda646c110d36.yaml
 ./poc/cve/CVE-2025-48080-c01824af3c60103d82be27e9666e33c2.yaml
 ./poc/cve/CVE-2025-48112-aaf7d49b6cfcefd7d1a849b55caeba46.yaml
@@ -100575,6 +100579,7 @@
 ./poc/cve/CVE-2025-5055-fb174a8e1d267ab82d1495c6339dc341.yaml
 ./poc/cve/CVE-2025-5058-303275cabd3b50fbefba1e04e4847627.yaml
 ./poc/cve/CVE-2025-5062-9fd03cbdd8b0287d386bfa634dc7d278.yaml
+./poc/cve/CVE-2025-5117-36eb751e5f8974c4a9b1f709e118efad.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
 ./poc/cve/CVE_2023_49442.yaml
 ./poc/cve/CVE_2023_51467.yaml
@@ -138759,6 +138764,7 @@
 ./poc/other/essential-addons-for-elementor-lite_5.yaml
 ./poc/other/essential-blocks-0368778a3dde119c48132ef88945e9f0.yaml
 ./poc/other/essential-blocks-04f2d656af8d26dc5ae258614d51b5c9.yaml
+./poc/other/essential-blocks-0e67c0227484c5c5376c232ad9d9c6dd.yaml
 ./poc/other/essential-blocks-1630e8ee95a2253cddeb0ac403e534d7.yaml
 ./poc/other/essential-blocks-3f99147789e8dff20415bce0a00a9c05.yaml
 ./poc/other/essential-blocks-6775ed87845d5a0e505cea6368e472c8.yaml
@@ -139407,6 +139413,7 @@
 ./poc/other/exclusive-addons-for-elementor-b22002f853e25973049d1d1881d3b198.yaml
 ./poc/other/exclusive-addons-for-elementor-b3bcca96e1c875ed49e977324ed1d1bf.yaml
 ./poc/other/exclusive-addons-for-elementor-b99a67e1a164b53e215f8fff1bd4be53.yaml
+./poc/other/exclusive-addons-for-elementor-c88f8d30ee55dceafa2bcc6038dca937.yaml
 ./poc/other/exclusive-addons-for-elementor-d816f3e5b6dd0614504b47cb61fe4920.yaml
 ./poc/other/exclusive-addons-for-elementor-e466b447a781f9d036099aa228150374.yaml
 ./poc/other/exclusive-addons-for-elementor-e959f2266e508572230ce39a0082a18a.yaml
@@ -157717,6 +157724,7 @@
 ./poc/other/proofreading-e013b665aa24a012961dcb02e614f854.yaml
 ./poc/other/proofreading.yaml
 ./poc/other/proofreading_1.yaml
+./poc/other/property-aa886d7e7a161e3c5a0efb7b73e34ce3.yaml
 ./poc/other/property-hive-mortgage-calculator.yaml
 ./poc/other/property-hive-mortgage-calculator_1.yaml
 ./poc/other/property-hive-stamp-duty-calculator-16a9af1f4a5d2ccf56de55248353c80f.yaml

@@ -5122,6 +5122,7 @@
 ./poc/auth/naver-login-phish_1.yaml
 ./poc/auth/naver-login-phish_1_1.yaml
 ./poc/auth/naver-login-phish_1_2.yaml
+./poc/auth/naver-login-phish_2.yaml
 ./poc/auth/netauth.yaml
 ./poc/auth/netcore-unauth.yaml
 ./poc/auth/netdisco-default-login.yaml
@@ -112012,6 +112013,7 @@
 ./poc/detect/searxng-detect_1_1.yaml
 ./poc/detect/searxng-detect_2.yaml
 ./poc/detect/searxng-detect_3.yaml
+./poc/detect/searxng-detect_4.yaml
 ./poc/detect/secmail-detect-10109.yaml
 ./poc/detect/secmail-detect-10109_1.yaml
 ./poc/detect/secmail-detect-10111.yaml
@@ -136275,6 +136277,7 @@
 ./poc/other/dashlane-phish_2.yaml
 ./poc/other/dashlane-phish_3.yaml
 ./poc/other/dashlane-phish_4.yaml
+./poc/other/dashlane-phish_5.yaml
 ./poc/other/dashy-panel.yaml
 ./poc/other/dashy-panel_1.yaml
 ./poc/other/dashy-panel_2.yaml
@@ -138956,6 +138959,7 @@
 ./poc/other/ee-mobile-phish_2.yaml
 ./poc/other/ee-mobile-phish_3.yaml
 ./poc/other/ee-mobile-phish_4.yaml
+./poc/other/ee-mobile-phish_5.yaml
 ./poc/other/eelv-newsletter-07f34fa2c8bb1fbeba97feaa25fa6966.yaml
 ./poc/other/eelv-newsletter-32f166cebfa4af208d7ab5c42a3dfcc1.yaml
 ./poc/other/eelv-newsletter-7d11b78d71c1439bfd6a1a5a809769fc.yaml
@@ -148865,6 +148869,7 @@
 ./poc/other/keepersecurity-phish_1_1.yaml
 ./poc/other/keepersecurity-phish_2.yaml
 ./poc/other/keepersecurity-phish_3.yaml
+./poc/other/keepersecurity-phish_4.yaml
 ./poc/other/kemai-ras-ultra-vires-access.yaml
 ./poc/other/kemai-ras-ultra-vires-access_1.yaml
 ./poc/other/kemp-loadmaster-panel.yaml
@@ -168253,6 +168258,7 @@
 ./poc/other/teamviewer-phish_2.yaml
 ./poc/other/teamviewer-phish_3.yaml
 ./poc/other/teamviewer-phish_4.yaml
+./poc/other/teamviewer-phish_5.yaml
 ./poc/other/teamviewer.yaml
 ./poc/other/teardrop-b4d76613e7335efdff0b86f2400b044a.yaml
 ./poc/other/teardrop.yaml

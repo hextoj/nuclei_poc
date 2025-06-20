@@ -100850,6 +100850,7 @@
 ./poc/cve/CVE-2025-4099-400cb9bad24a61e87ecc37cd29c94ad8.yaml
 ./poc/cve/CVE-2025-4100-e33fc338b264d3ef52655e6d545ff73c.yaml
 ./poc/cve/CVE-2025-4101-8d4527627a6e631eadefd7ad7042e52c.yaml
+./poc/cve/CVE-2025-4102-3dded254448a004d771c3a72ccb98a6c.yaml
 ./poc/cve/CVE-2025-4103-8a7cd67fdc008e4b1239cab2493c6213.yaml
 ./poc/cve/CVE-2025-4104-76c7f9e223a88e0463cbbbf07ebbe4e2.yaml
 ./poc/cve/CVE-2025-4105-5ccaf91955beefa4a67dceaefa216d8d.yaml
@@ -101681,6 +101682,7 @@
 ./poc/cve/CVE-2025-6086-e8fd0165df69778ac623273227a49252.yaml
 ./poc/cve/CVE-2025-6201-b6d3f08a6a7aa685613b6b4ec632dca5.yaml
 ./poc/cve/CVE-2025-6220-1933f5a26a4e398a2acafaa09ad42013.yaml
+./poc/cve/CVE-2025-6257-942200ca6dec77df9f159a811c699638.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
 ./poc/cve/CVE_2023_49442.yaml
 ./poc/cve/CVE_2023_51467.yaml
@@ -128990,6 +128992,7 @@
 ./poc/other/bb-bootstrap-cards-54cc5c91cb84d546bbd06c67eb232fff.yaml
 ./poc/other/bb-bootstrap-cards.yaml
 ./poc/other/bb-bootstrap-cards_1.yaml
+./poc/other/bb-plugin-a19f3a84c1b97e1e2726df781393efd3.yaml
 ./poc/other/bb-ultimate-addon-3815c578c25f7f27ed21ebdab98f18d5.yaml
 ./poc/other/bb-ultimate-addon-4986bbbab54ecb934f0a1c1d3f8d2cc3.yaml
 ./poc/other/bb-ultimate-addon-af319e6ce1f0eaa09235f97568f3fdd8.yaml
@@ -140495,6 +140498,7 @@
 ./poc/other/eunoia_1.yaml
 ./poc/other/eunoia_2.yaml
 ./poc/other/eureka-server.yaml
+./poc/other/euro-fxref-currency-converter-c29604e32e55f1e48add66a715f68b8d.yaml
 ./poc/other/eusestudy.yaml
 ./poc/other/evaluate-04eec8ce4ae8f89c6df8d530479c7189.yaml
 ./poc/other/evaluate-variables.yaml

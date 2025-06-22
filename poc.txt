@@ -152950,6 +152950,7 @@
 ./poc/other/misp-panel_1.yaml
 ./poc/other/misp-panel_2.yaml
 ./poc/other/misp-panel_3.yaml
+./poc/other/misp-panel_4.yaml
 ./poc/other/missing-csp.yaml
 ./poc/other/missing-csp_1.yaml
 ./poc/other/missing-csp_2.yaml
@@ -152976,6 +152977,7 @@
 ./poc/other/mitel-arbitary-file-read.yaml
 ./poc/other/mitel-micollab-panel.yaml
 ./poc/other/mitel-micollab-panel_1.yaml
+./poc/other/mitel-micollab-panel_2.yaml
 ./poc/other/mitel-micollab-version.yaml
 ./poc/other/mitel-micollab-version_1.yaml
 ./poc/other/mitm-bug-tracker-83228c4c7f60502eea24e6ce5903d9f4.yaml
@@ -175466,6 +175468,7 @@
 ./poc/other/x-content-type-options_3.yaml
 ./poc/other/x-content-type-options_4.yaml
 ./poc/other/x-forwarded-for.yaml
+./poc/other/x-forwarded-for_1.yaml
 ./poc/other/x-forwarded-host-ai.yaml
 ./poc/other/x-forwarded-reflection.yaml
 ./poc/other/x-forwarded-reflection_1.yaml

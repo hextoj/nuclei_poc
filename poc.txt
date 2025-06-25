@@ -507,6 +507,7 @@
 ./poc/apache/apache-wicket.yaml
 ./poc/apache/apache2-ubuntu默认页面.yaml
 ./poc/apache/apachesolrlfissrf.yaml
+./poc/apache/apachespark-ui-exposed.yaml
 ./poc/apache/askapache-firefox-adsense-f97340f5d88b3c5e1859d992075304c3.yaml
 ./poc/apache/askapache-firefox-adsense.yaml
 ./poc/apache/askapache-firefox-adsense_1.yaml
@@ -101660,6 +101661,7 @@
 ./poc/cve/CVE-2025-5923-71ac54a412dfaca50304c13d5d2813c1.yaml
 ./poc/cve/CVE-2025-5925-721dd3262b114a9d10dc78dd898a8fbf.yaml
 ./poc/cve/CVE-2025-5926-d0a6a8a8940151e4283cd715c2c88f41.yaml
+./poc/cve/CVE-2025-5927-ac2690a583463493cdd153e6f211e3a1.yaml
 ./poc/cve/CVE-2025-5928-43a94b63ac10031bd78445256e09eb9d.yaml
 ./poc/cve/CVE-2025-5930-9454db1bc4e6d38f40cf2a95774868a7.yaml
 ./poc/cve/CVE-2025-5938-878b354bb009987e18e69351a4ad78b2.yaml
@@ -110245,6 +110247,7 @@
 ./poc/detect/aspnet-version-detect.yaml
 ./poc/detect/aspnet-version-detect_1.yaml
 ./poc/detect/aspnet-version-detect_2.yaml
+./poc/detect/assetlinks-detect.yaml
 ./poc/detect/atlantis-detect.yaml
 ./poc/detect/atlantis-detect_1.yaml
 ./poc/detect/atlantis-detect_2.yaml
@@ -114292,6 +114295,7 @@
 ./poc/exposed/exposed-kibana-7320.yaml
 ./poc/exposed/exposed-kibana.yaml
 ./poc/exposed/exposed-mcp-server.yaml
+./poc/exposed/exposed-mcp-sse-server.yaml
 ./poc/exposed/exposed-merge-metadata-servlet.yaml
 ./poc/exposed/exposed-merge-metadata-servlet_1.yaml
 ./poc/exposed/exposed-mysql-initial-7323.yaml
@@ -116757,6 +116761,7 @@
 ./poc/header/log4j-header.yaml
 ./poc/header/maxforwards-headers-detect.yaml
 ./poc/header/maxforwards-headers-detect_1.yaml
+./poc/header/maxforwards-headers-detect_2.yaml
 ./poc/header/missing-hsts-header.yaml
 ./poc/header/missing-hsts-header_1.yaml
 ./poc/header/null-auth-header-auth-bypass.yaml
@@ -120671,6 +120676,7 @@
 ./poc/microsoft/everest-forms-b6b3e80f59fa873307197ce9659b9c44.yaml
 ./poc/microsoft/everest-forms-c0a0e81c146bf7cecaaeae90b639da7b.yaml
 ./poc/microsoft/everest-forms-c736e825a20c9c5ddf7033e9bcb1df59.yaml
+./poc/microsoft/everest-forms-pro-b2c651756aa732332454b79fbc70e272.yaml
 ./poc/microsoft/everest-forms.yaml
 ./poc/microsoft/everest-forms_1.yaml
 ./poc/microsoft/everest-forms_2.yaml
@@ -154930,6 +154936,7 @@
 ./poc/other/ngrok-status-page_2.yaml
 ./poc/other/ngrok-status-page_3.yaml
 ./poc/other/ngrok-status-page_4.yaml
+./poc/other/ngsurvey-panel.yaml
 ./poc/other/ngx_cache_purge.yaml
 ./poc/other/ngx_cache_purge_1.yaml
 ./poc/other/nh-c2.yaml
@@ -166064,6 +166071,7 @@
 ./poc/other/so-widgets-bundle-12246c67482cc81113f95b53d4a54f04.yaml
 ./poc/other/so-widgets-bundle-180c430fc45a724a110d6335d32e96f4.yaml
 ./poc/other/so-widgets-bundle-7815d5616dfb70208d5884aff281d688.yaml
+./poc/other/so-widgets-bundle-88dc44a8c4f1f5a29a238973f1cece16.yaml
 ./poc/other/so-widgets-bundle-92dc9daa82044d420b1ee35cdf66e7ae.yaml
 ./poc/other/so-widgets-bundle-92ee98fa3b74b713ba950a259247d7f6.yaml
 ./poc/other/so-widgets-bundle-d32a7a08a7f7049ae462fe2e7701eaaf.yaml
@@ -188587,6 +188595,7 @@
 ./poc/sql/CVE-2025-5259-78fd29b895cbeef0c487073db2f62bc3.yaml
 ./poc/sql/CVE-2025-5285-eda55a8db9613cb2cd683e54a83f8e8e.yaml
 ./poc/sql/CVE-2025-5565-a59c8dbf223621e88f8a255f1867f00b.yaml
+./poc/sql/CVE-2025-5585-5ed434fa554db6e41ee5055c48a51702.yaml
 ./poc/sql/Changdao-165-SQLi.yaml
 ./poc/sql/Changdao-165-SQLi_1.yaml
 ./poc/sql/Cmseasy-Http-Head-sqli.yaml
@@ -193586,6 +193595,7 @@
 ./poc/sql/sql-server-dump.yaml
 ./poc/sql/sql-server-dump_1.yaml
 ./poc/sql/sql-server-dump_1_1.yaml
+./poc/sql/sql-server-dump_1_2.yaml
 ./poc/sql/sql-server-report-viewer.yaml
 ./poc/sql/sql-server-report-viewer_1.yaml
 ./poc/sql/sql-server-report-viewer_2.yaml
@@ -198154,6 +198164,7 @@
 ./poc/web/alphaweb-default-login.yaml
 ./poc/web/am-websystem.yaml
 ./poc/web/amazon-web-services-phish.yaml
+./poc/web/amazon-web-services-phish_1.yaml
 ./poc/web/amocrm-webform-22af305ec1a897ef70687c3c52576174.yaml
 ./poc/web/apache-oozie-web-console.yaml
 ./poc/web/appweb.yaml
@@ -211093,11 +211104,15 @@
 ./poc/xss/slims-8-akasia-xss.yaml
 ./poc/xss/slims-8-akasia-xss_1.yaml
 ./poc/xss/slims-8-akasia-xss_2.yaml
+./poc/xss/slims-8-akasia-xss_2_1.yaml
 ./poc/xss/slims-8-akasia-xss_3.yaml
+./poc/xss/slims-8-akasia-xss_3_1.yaml
 ./poc/xss/slims-8-akasia-xss_4.yaml
 ./poc/xss/slims-9-xss-index.yaml
 ./poc/xss/slims-9-xss-index_1.yaml
+./poc/xss/slims-9-xss-index_1_1.yaml
 ./poc/xss/slims-9-xss-index_2.yaml
+./poc/xss/slims-9-xss-index_2_1.yaml
 ./poc/xss/slims-xss.yaml
 ./poc/xss/slims-xss_1.yaml
 ./poc/xss/slims-xss_2.yaml

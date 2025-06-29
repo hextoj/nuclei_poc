@@ -101889,6 +101889,7 @@
 ./poc/cve/CVE-2025-6379-cac6c2885be50b1ba75d89b51adbc9f6.yaml
 ./poc/cve/CVE-2025-6381-7e7c240e5ea33420ee4a7680983f06c4.yaml
 ./poc/cve/CVE-2025-6383-d84bbe60be049dabcb9b84e6984f8b27.yaml
+./poc/cve/CVE-2025-6462-5c7047cbd715093ad8f7243063edfd2c.yaml
 ./poc/cve/CVE-2025-6488-45b89c6505cb0c8c15a5324481a05500.yaml
 ./poc/cve/CVE-2025-6537-d28441cfe31eeac6a86e39ef00fb63a8.yaml
 ./poc/cve/CVE-2025-6538-eb14a29dbd30bc2d038324b5ba94b734.yaml
@@ -110532,6 +110533,7 @@
 ./poc/detect/bimi-detect_3.yaml
 ./poc/detect/bimi-detect_4.yaml
 ./poc/detect/bimi-detect_5.yaml
+./poc/detect/bimi-detect_6.yaml
 ./poc/detect/bimi-record-detect.yaml
 ./poc/detect/birt-detect.yaml
 ./poc/detect/birt-detect_1.yaml
@@ -196039,6 +196041,7 @@
 ./poc/sql_injection/elgg-sqli.yaml
 ./poc/sql_injection/elisqlreports-3207e414460d4c65e4d71947fd6b629e.yaml
 ./poc/sql_injection/elisqlreports-42e74f11219f83b87ad99deca2b40f32.yaml
+./poc/sql_injection/elisqlreports-71ea76adc5ed88e21b29e30dede80e2b.yaml
 ./poc/sql_injection/elisqlreports-c7ba03c12a7ae470660985334388b0d3.yaml
 ./poc/sql_injection/elisqlreports-d0fbfa246602ee66dbff8e004946cf18.yaml
 ./poc/sql_injection/enjoyrmis-sqli.yaml

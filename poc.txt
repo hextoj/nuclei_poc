@@ -132593,6 +132593,7 @@
 ./poc/other/ccleaner-phish_3.yaml
 ./poc/other/ccleaner-phish_4.yaml
 ./poc/other/ccleaner-phish_5.yaml
+./poc/other/ccleaner-phish_6.yaml
 ./poc/other/cdata.yaml
 ./poc/other/cdg.yaml
 ./poc/other/cdn-cache-poisoning.yaml
@@ -144908,6 +144909,7 @@
 ./poc/other/gl-s20_firmware.yaml
 ./poc/other/gladinet-centrestack-panel.yaml
 ./poc/other/gladinet-centrestack-panel_1.yaml
+./poc/other/gladinet-centrestack-panel_2.yaml
 ./poc/other/glance-that-febd1194ea0e6e2b0806802be32fa17d.yaml
 ./poc/other/glance-that.yaml
 ./poc/other/glass-b3268283daf190fd77277f208bd83ee4.yaml
@@ -198909,6 +198911,7 @@
 ./poc/web/fingerprinthub-web-fingerprints_1.yaml
 ./poc/web/fingerprinthub-web-fingerprints_2.yaml
 ./poc/web/fingerprinthub-web-fingerprints_3.yaml
+./poc/web/fingerprinthub-web-fingerprints_4.yaml
 ./poc/web/five-minute-webshop-9d27fa4970a82eb922c7bcb4bdb6d676.yaml
 ./poc/web/five-minute-webshop.yaml
 ./poc/web/five-minute-webshop_1.yaml

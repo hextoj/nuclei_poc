@@ -101795,6 +101795,7 @@
 ./poc/cve/CVE-2025-5303-c303459bdaf6b978be631c592fcc0cc0.yaml
 ./poc/cve/CVE-2025-5303-dceec58aa9c027d158a424f15d386d11.yaml
 ./poc/cve/CVE-2025-5304-dea9a24822da695d016d390cedf59c02.yaml
+./poc/cve/CVE-2025-5314-8c78b3b97a1e3c076ec116774eb26a9c.yaml
 ./poc/cve/CVE-2025-5336-cf032e233c7eab328346d9b3581f7c3e.yaml
 ./poc/cve/CVE-2025-5337-8fde1c4351413fa0b640ebc7e2f0bef0.yaml
 ./poc/cve/CVE-2025-5338-a6026520c64f2f21f6ef29075441af3e.yaml
@@ -101899,6 +101900,8 @@
 ./poc/cve/CVE-2025-6688-9f3af2fed5af87368deae660dca4fef6.yaml
 ./poc/cve/CVE-2025-6689-11b5d699a69293ce80ab21cce4f41595.yaml
 ./poc/cve/CVE-2025-6755-e6cc238679b1d29966919352d6389b66.yaml
+./poc/cve/CVE-2025-6756-be147307867df4561b6dcfe51abc0ecd.yaml
+./poc/cve/CVE-2025-6934-941063287d026b4b2b0634705ac033f3.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
 ./poc/cve/CVE_2023_49442.yaml
 ./poc/cve/CVE_2023_51467.yaml
@@ -124057,6 +124060,7 @@
 ./poc/other/3d-cover-carousel-e3b7977578ea85058de3bb34af6ce851.yaml
 ./poc/other/3d-cover-carousel.yaml
 ./poc/other/3d-cover-carousel_1.yaml
+./poc/other/3d-flipbook-dflip-lite-1871e3025fa92a9388a222fa02bb94f4.yaml
 ./poc/other/3d-flipbook-dflip-lite-27221742251ebe9cf2652c90ba550053.yaml
 ./poc/other/3d-flipbook-dflip-lite-60fbe9ec36e89ad4eb22108f94e00325.yaml
 ./poc/other/3d-flipbook-dflip-lite-cbf309542e3a829fd9340fbd91534510.yaml
@@ -136958,6 +136962,7 @@
 ./poc/other/deliveroo-phish_2.yaml
 ./poc/other/deliveroo-phish_3.yaml
 ./poc/other/deliveroo-phish_4.yaml
+./poc/other/deliveroo-phish_5.yaml
 ./poc/other/delivery-woo-ff9293ba28748efa2ab9a2fe77385468.yaml
 ./poc/other/delivery-woo.yaml
 ./poc/other/delivery-woo_1.yaml
@@ -156160,6 +156165,7 @@
 ./poc/other/opal-estate-0dcb54302d1cbc14744921bfe49d6ec9.yaml
 ./poc/other/opal-estate-83c55a4f4dacc2f4f75cffb02185b669.yaml
 ./poc/other/opal-estate-pro-7683ef10154c2cea048c058733af3b62.yaml
+./poc/other/opal-estate-pro-bda8e47aa6b508947be4c5e539768127.yaml
 ./poc/other/opal-estate-pro.yaml
 ./poc/other/opal-estate-pro_1.yaml
 ./poc/other/opal-estate.yaml
@@ -171082,6 +171088,7 @@
 ./poc/other/ultimate-addons-for-contact-form-7-23e302f8d61e50bce7b7141f81ed110d.yaml
 ./poc/other/ultimate-addons-for-contact-form-7-62fe5c05881b3940ab8df523eb8028fa.yaml
 ./poc/other/ultimate-addons-for-contact-form-7-850603d1a433e1b27437f0113d161749.yaml
+./poc/other/ultimate-addons-for-contact-form-7-9116d0b8237a7a4e902c045b3699b533.yaml
 ./poc/other/ultimate-addons-for-contact-form-7-9303c6248250ab13b4126b1ddf39ab36.yaml
 ./poc/other/ultimate-addons-for-contact-form-7-adc36102a03d1ffafe66f0083583799e.yaml
 ./poc/other/ultimate-addons-for-contact-form-7-e9c2c15309707f7d3ca0b586be73c678.yaml
@@ -179662,6 +179669,7 @@
 ./poc/remote_code_execution/image-source-control-isc.yaml
 ./poc/remote_code_execution/image-source-control-isc_1.yaml
 ./poc/remote_code_execution/image-source-control-isc_2.yaml
+./poc/remote_code_execution/imind-rce.yaml
 ./poc/remote_code_execution/imo-rce.yaml
 ./poc/remote_code_execution/import-export-for-woocommerce-5ea5e5225f96e660e767b4c54517b14b.yaml
 ./poc/remote_code_execution/import-export-for-woocommerce-bcf2ad7e63917a98b59c548c5519a59f.yaml
@@ -206292,6 +206300,7 @@
 ./poc/wordpress/wp-jobsearch-5156eed6607d0f1d5255c2110a462bce.yaml
 ./poc/wordpress/wp-jobsearch-5288f66ede9d770f4653688a69bbf33b.yaml
 ./poc/wordpress/wp-jobsearch-54c5097a846f57bad27a139b9cf089c0.yaml
+./poc/wordpress/wp-jobsearch-5fa7c6d297ba13df3ce171c2d81040ac.yaml
 ./poc/wordpress/wp-jobsearch-631ceb21c97d5b0b2c0e84fac241a228.yaml
 ./poc/wordpress/wp-jobsearch-69bd7ce9ee3fd262c43c315d20b3b9a4.yaml
 ./poc/wordpress/wp-jobsearch-712fa5c13aa4525353395abcf7542d1c.yaml
@@ -206316,6 +206325,7 @@
 ./poc/wordpress/wp-jobsearch-e997914cc8aed306d89871fe3c2d31b3.yaml
 ./poc/wordpress/wp-jobsearch-ee634f88450508296a4c45ae59e110b4.yaml
 ./poc/wordpress/wp-jobsearch-f1ae9d6900fa8faa6bd199f7f208a7db.yaml
+./poc/wordpress/wp-jobsearch-f3104cc87502f1ed7831e4038311e4c0.yaml
 ./poc/wordpress/wp-jobsearch-f8d2f243abb1aaae6ccec3b0463f86c6.yaml
 ./poc/wordpress/wp-jobsearch-f90fc1408d08d5b340650edc55bbb5f7.yaml
 ./poc/wordpress/wp-jobsearch-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml

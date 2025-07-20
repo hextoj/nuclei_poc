@@ -4474,6 +4474,7 @@
 ./poc/auth/keybase-phish_4.yaml
 ./poc/auth/keybase-phish_5.yaml
 ./poc/auth/keybase-phish_6.yaml
+./poc/auth/keybase-phish_7.yaml
 ./poc/auth/keycaptcha-886e454be2c26e9b9196cfbbeeff60e6.yaml
 ./poc/auth/keycloak-admin-panel.yaml
 ./poc/auth/keycloak-admin-panel_1.yaml
@@ -105497,6 +105498,7 @@
 ./poc/cve/CVE-2025-53338-7d3d84effe35b27ac8435869b53812a7.yaml
 ./poc/cve/CVE-2025-53339-890ff462b52d8c21082ecfbd449c6265.yaml
 ./poc/cve/CVE-2025-5336-cf032e233c7eab328346d9b3581f7c3e.yaml
+./poc/cve/CVE-2025-53364.yaml
 ./poc/cve/CVE-2025-5337-8fde1c4351413fa0b640ebc7e2f0bef0.yaml
 ./poc/cve/CVE-2025-5338-a6026520c64f2f21f6ef29075441af3e.yaml
 ./poc/cve/CVE-2025-5339-c160b65544ace97a217de0337fe38df9.yaml
@@ -119850,6 +119852,7 @@
 ./poc/git/digital-ocean-phish_4.yaml
 ./poc/git/digital-ocean-phish_5.yaml
 ./poc/git/digital-ocean-phish_6.yaml
+./poc/git/digital-ocean-phish_7.yaml
 ./poc/git/digital-ocean-ssrf.yaml
 ./poc/git/digital-ocean-ssrf_1.yaml
 ./poc/git/digital-publications-by-supsystic-3654b5b992852653b7e966396c0613b4.yaml
@@ -125791,6 +125794,7 @@
 ./poc/microsoft/microsoft-phish_6.yaml
 ./poc/microsoft/microsoft-phish_7.yaml
 ./poc/microsoft/microsoft-phish_8.yaml
+./poc/microsoft/microsoft-phish_9.yaml
 ./poc/microsoft/microsoft-runtime-error.yaml
 ./poc/microsoft/microsoft-silverlight.yaml
 ./poc/microsoft/microsoft-skype-for-business.yaml
@@ -125801,6 +125805,7 @@
 ./poc/microsoft/microsoft-teams-phish_4.yaml
 ./poc/microsoft/microsoft-teams-phish_5.yaml
 ./poc/microsoft/microsoft-teams-phish_6.yaml
+./poc/microsoft/microsoft-teams-phish_7.yaml
 ./poc/microsoft/microsoft-teams-webhook-8856.yaml
 ./poc/microsoft/microsoft-teams-webhook-8858.yaml
 ./poc/microsoft/mightyforms-29983d9146384be621b7b03b0b101b56.yaml
@@ -127046,6 +127051,7 @@
 ./poc/nodejs/aliexpress-phish_5.yaml
 ./poc/nodejs/aliexpress-phish_6.yaml
 ./poc/nodejs/aliexpress-phish_7.yaml
+./poc/nodejs/aliexpress-phish_8.yaml
 ./poc/nodejs/american-express-phish.yaml
 ./poc/nodejs/american-express-phish_1.yaml
 ./poc/nodejs/american-express-phish_10.yaml
@@ -131843,6 +131849,7 @@
 ./poc/other/anydesk-phish_6.yaml
 ./poc/other/anydesk-phish_7.yaml
 ./poc/other/anydesk-phish_8.yaml
+./poc/other/anydesk-phish_9.yaml
 ./poc/other/anyfont-dee55e94d65e5c202ce055d3c697d280.yaml
 ./poc/other/anyfont.yaml
 ./poc/other/anyfont_1.yaml
@@ -133689,6 +133696,7 @@
 ./poc/other/battlenet-phish_6.yaml
 ./poc/other/battlenet-phish_7.yaml
 ./poc/other/battlenet-phish_8.yaml
+./poc/other/battlenet-phish_9.yaml
 ./poc/other/bauernregeln-8443e67ced563afdafab20485c810d8f.yaml
 ./poc/other/bauernregeln.yaml
 ./poc/other/baw-post-views-count-1f1423fe07e3e5dc127b8184f9c5bf2b.yaml
@@ -134399,6 +134407,7 @@
 ./poc/other/bitwarden-phish_6.yaml
 ./poc/other/bitwarden-phish_7.yaml
 ./poc/other/bitwarden-phish_8.yaml
+./poc/other/bitwarden-phish_9.yaml
 ./poc/other/bitwarden-vault-panel.yaml
 ./poc/other/bitwarden-vault-panel_1.yaml
 ./poc/other/bitwarden-vault-panel_2.yaml
@@ -134467,6 +134476,7 @@
 ./poc/other/blazor_server.yaml
 ./poc/other/blender-phish.yaml
 ./poc/other/blender-phish_1.yaml
+./poc/other/blender-phish_10.yaml
 ./poc/other/blender-phish_1_1.yaml
 ./poc/other/blender-phish_2.yaml
 ./poc/other/blender-phish_3.yaml
@@ -136318,6 +136328,7 @@
 ./poc/other/bynder-panel_2.yaml
 ./poc/other/bynder-panel_3.yaml
 ./poc/other/bynder-panel_4.yaml
+./poc/other/bynder-panel_5.yaml
 ./poc/other/byzoro-下一代防火墙.yaml
 ./poc/other/byzoro-安全网关.yaml
 ./poc/other/byzoro-百卓审计网关.yaml
@@ -137447,6 +137458,7 @@
 ./poc/other/chase-phish_6.yaml
 ./poc/other/chase-phish_7.yaml
 ./poc/other/chase-phish_8.yaml
+./poc/other/chase-phish_9.yaml
 ./poc/other/chat-bee-ab3d2811b40cfb001a24722e62a5442e.yaml
 ./poc/other/chat-bee.yaml
 ./poc/other/chat-bee_1.yaml
@@ -146653,6 +146665,7 @@
 ./poc/other/fbgorilla-5ed3cf6e2d742d1beff1b84c27d04b32.yaml
 ./poc/other/fbgorilla.yaml
 ./poc/other/fbgorilla_1.yaml
+./poc/other/fbi-seized-nameserver.yaml
 ./poc/other/fbi-seized-nameserver_1.yaml
 ./poc/other/fbpromotions-a00b2d6a30a28ce9c75c1eccf4749b2b.yaml
 ./poc/other/fbpromotions.yaml
@@ -150475,6 +150488,7 @@
 ./poc/other/haivision-media-platform-panel_4.yaml
 ./poc/other/haivision-media-platform-panel_5.yaml
 ./poc/other/haivision-media-platform-panel_6.yaml
+./poc/other/haivision-media-platform-panel_7.yaml
 ./poc/other/hal-management-panel.yaml
 ./poc/other/hal.yaml
 ./poc/other/hal_1.yaml
@@ -154111,6 +154125,7 @@
 ./poc/other/kaspersky-phish_6.yaml
 ./poc/other/kaspersky-phish_7.yaml
 ./poc/other/kaspersky-phish_8.yaml
+./poc/other/kaspersky-phish_9.yaml
 ./poc/other/kaspersky-secure-mail-gateway.yaml
 ./poc/other/kaswara-19cea750564475b5e1c38c21a00ea244.yaml
 ./poc/other/kaswara-39874c2c13a9f7b980a4b3c6b0d5e70a.yaml
@@ -157480,6 +157495,7 @@
 ./poc/other/mega-phish_4.yaml
 ./poc/other/mega-phish_5.yaml
 ./poc/other/mega-phish_6.yaml
+./poc/other/mega-phish_7.yaml
 ./poc/other/mega_main_menu-63af3007da329791634e01d0ac2d7e19.yaml
 ./poc/other/mega_main_menu-92df36df315e507c0cd53b96853ee003.yaml
 ./poc/other/mega_main_menu-ad7fd04e1ec32d41ed7ef794220c2a12.yaml
@@ -160498,6 +160514,7 @@
 ./poc/other/nordpass-phish_5.yaml
 ./poc/other/nordpass-phish_6.yaml
 ./poc/other/nordpass-phish_7.yaml
+./poc/other/nordpass-phish_8.yaml
 ./poc/other/norton-cloud-connect.yaml
 ./poc/other/norton-phish.yaml
 ./poc/other/norton-phish_1.yaml
@@ -165858,6 +165875,7 @@
 ./poc/other/quora-phish_4.yaml
 ./poc/other/quora-phish_5.yaml
 ./poc/other/quora-phish_6.yaml
+./poc/other/quora-phish_7.yaml
 ./poc/other/quota-453b39613dcca9c94569ea039b8538d4.yaml
 ./poc/other/quota.yaml
 ./poc/other/quota_1.yaml
@@ -174208,6 +174226,7 @@
 ./poc/other/teampass.yaml
 ./poc/other/teamviewer-phish.yaml
 ./poc/other/teamviewer-phish_1.yaml
+./poc/other/teamviewer-phish_10.yaml
 ./poc/other/teamviewer-phish_1_1.yaml
 ./poc/other/teamviewer-phish_2.yaml
 ./poc/other/teamviewer-phish_3.yaml
@@ -190666,6 +190685,7 @@
 ./poc/social/linkedin-phish_4.yaml
 ./poc/social/linkedin-phish_5.yaml
 ./poc/social/linkedin-phish_6.yaml
+./poc/social/linkedin-phish_7.yaml
 ./poc/social/linkedin.yaml
 ./poc/social/linkedin_1.yaml
 ./poc/social/live-chat-facebook-fanpage-09712df89f849ba85b08f5f0deb0865b.yaml

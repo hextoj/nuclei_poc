@@ -6020,6 +6020,7 @@
 ./poc/auth/putty-private-key-disclosure-9731.yaml
 ./poc/auth/putty-private-key-disclosure-9732.yaml
 ./poc/auth/putty-private-key-disclosure.yaml
+./poc/auth/putty-private-key-disclosure_1.yaml
 ./poc/auth/putty-user-keyfile.yaml
 ./poc/auth/putty-user-keyfile_1.yaml
 ./poc/auth/pvn-auth-popup-07f350252e6820d89f1593e944a45ac9.yaml
@@ -105948,6 +105949,7 @@
 ./poc/cve/CVE-2025-8071-1d91f05b98b9098df2ab87a990d1ff8e.yaml
 ./poc/cve/CVE-2025-8097-ff1b43556fde87cf99b46e758c4e2e7f.yaml
 ./poc/cve/CVE-2025-8103-8c5b11730cb23751fcda844457b33f2a.yaml
+./poc/cve/CVE-2025-8104-e0b71b77c55bfbf546c45e72181d37ff.yaml
 ./poc/cve/CVE-2025-8198-0a9fef527f54d4f351b5a874f6654b28.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
 ./poc/cve/CVE_2023_49442.yaml
@@ -120311,6 +120313,7 @@
 ./poc/git/github-phish_6.yaml
 ./poc/git/github-phish_7.yaml
 ./poc/git/github-phish_8.yaml
+./poc/git/github-phish_9.yaml
 ./poc/git/github-refresh.yaml
 ./poc/git/github-refresh_1.yaml
 ./poc/git/github-refresh_2.yaml
@@ -138875,6 +138878,7 @@
 ./poc/other/cold-fusion-cfcache-map.yaml
 ./poc/other/cold-fusion-cfcache-map_1.yaml
 ./poc/other/cold-fusion-cfcache-map_2.yaml
+./poc/other/cold-fusion-cfcache-map_3.yaml
 ./poc/other/colibri-page-builder-1bfda370cbff31e2f4c39c2a302bbf16.yaml
 ./poc/other/colibri-page-builder-28675012abc87972c312fe7cdd5bc6f8.yaml
 ./poc/other/colibri-page-builder-316fd97f427de6921391f2a17f80bd23.yaml
@@ -170812,6 +170816,7 @@
 ./poc/other/simple-history.yaml
 ./poc/other/simple-history_1.yaml
 ./poc/other/simple-history_2.yaml
+./poc/other/simple-history_3.yaml
 ./poc/other/simple-icons-03e487465bb923661d049aafb077d022.yaml
 ./poc/other/simple-icons-77fb32c5c3aa2b70b15423e0972c0c7c.yaml
 ./poc/other/simple-icons.yaml
@@ -191206,6 +191211,7 @@
 ./poc/social/instagram-phish_6.yaml
 ./poc/social/instagram-phish_7.yaml
 ./poc/social/instagram-phish_8.yaml
+./poc/social/instagram-phish_9.yaml
 ./poc/social/instagram-slider-widget-03cc0954a09fe26e1593ee0473d94207.yaml
 ./poc/social/instagram-slider-widget-10daf47e2f30f4e8213d6300a537c545.yaml
 ./poc/social/instagram-slider-widget-1dc86aa2fb2204018b98c0cd0e0e08a9.yaml
@@ -213359,6 +213365,7 @@
 ./poc/wordpress/wp-memory-2cc3e92c3d1708bd7f8caa1049d9d5af.yaml
 ./poc/wordpress/wp-memory-7c8e62901f62e844cd59da693d583894.yaml
 ./poc/wordpress/wp-memory-914b4d819dd1d865a850219104f89ac0.yaml
+./poc/wordpress/wp-memory-9f8d91fab8829b2f1c6b3f44fee68a1a.yaml
 ./poc/wordpress/wp-memory-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/wordpress/wp-memory-e7ab4f836f535fd1c7d2ba4a92ab0a44.yaml
 ./poc/wordpress/wp-memory-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml

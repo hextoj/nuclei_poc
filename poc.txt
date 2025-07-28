@@ -116867,6 +116867,7 @@
 ./poc/detect/spf-record-detect_4.yaml
 ./poc/detect/spf-record-detect_5.yaml
 ./poc/detect/spf-record-detect_6.yaml
+./poc/detect/spf-record-detect_7.yaml
 ./poc/detect/spinnaker-detect.yaml
 ./poc/detect/spinnaker-detect_1.yaml
 ./poc/detect/spnego-detect.yaml

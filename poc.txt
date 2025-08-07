@@ -4378,6 +4378,7 @@
 ./poc/auth/jupyterhub-default-login.yaml
 ./poc/auth/jupyterhub-default-login_1.yaml
 ./poc/auth/jupyterhub-default-login_2.yaml
+./poc/auth/jwt-algorithm-confusion.yaml
 ./poc/auth/jwt-auth-095adf04b2058ec616033a7aa2b24d07.yaml
 ./poc/auth/jwt-auth.yaml
 ./poc/auth/jwt-auth_1.yaml
@@ -116130,6 +116131,7 @@
 ./poc/detect/conpot-siemens-honeypot-detect_2.yaml
 ./poc/detect/conpot-siemens-honeypot-detection.yaml
 ./poc/detect/conpot-siemens-honeypot-detection_1.yaml
+./poc/detect/container-escape-detection.yaml
 ./poc/detect/contentkeeper-detect-1201.yaml
 ./poc/detect/contentkeeper-detect-1203.yaml
 ./poc/detect/contentkeeper-detect.yaml
@@ -120539,6 +120541,7 @@
 ./poc/exposed/kiwi-information-disclosure.yaml
 ./poc/exposed/kiwi-information-disclosure_1.yaml
 ./poc/exposed/kronos-wsld-exposure.yaml
+./poc/exposed/kubernetes-api-exposure.yaml
 ./poc/exposed/kubernetes-kustomization-disclosure-8532.yaml
 ./poc/exposed/kubernetes-kustomization-disclosure-8533.yaml
 ./poc/exposed/kubernetes-kustomization-disclosure.yaml
@@ -122912,6 +122915,7 @@
 ./poc/http/http-verb-tampering.yaml
 ./poc/http/http-verb-tampering_1.yaml
 ./poc/http/http-xframe-header.yaml
+./poc/http/http2-request-smuggling.yaml
 ./poc/http/http_server.yaml
 ./poc/http/httpbin-detection.yaml
 ./poc/http/httpbin-detection_1.yaml

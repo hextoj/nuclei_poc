@@ -44166,6 +44166,7 @@
 ./poc/cve/CVE-2022-1388-3.yaml
 ./poc/cve/CVE-2022-1388.yaml
 ./poc/cve/CVE-2022-1388_1.yaml
+./poc/cve/CVE-2022-1388_10.yaml
 ./poc/cve/CVE-2022-1388_2.yaml
 ./poc/cve/CVE-2022-1388_3.yaml
 ./poc/cve/CVE-2022-1388_4.yaml
@@ -104649,6 +104650,7 @@
 ./poc/cve/CVE-2025-2944-a2866ef7f64206a3e03eb9031aa81060.yaml
 ./poc/cve/CVE-2025-29927.yaml
 ./poc/cve/CVE-2025-29927_1.yaml
+./poc/cve/CVE-2025-29927_3.yaml
 ./poc/cve/CVE-2025-30208.yaml
 ./poc/cve/CVE-2025-30220.yaml
 ./poc/cve/CVE-2025-30406.yaml
@@ -181300,6 +181302,7 @@
 ./poc/other/variables_1.yaml
 ./poc/other/variables_2.yaml
 ./poc/other/variables_3.yaml
+./poc/other/variables_4.yaml
 ./poc/other/varmour-product.yaml
 ./poc/other/vasaio-qr-code-e84ac93eb509e74008997bf87194ee98.yaml
 ./poc/other/vault-panel.yaml

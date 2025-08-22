@@ -108289,6 +108289,7 @@
 ./poc/cve/CVE-2025-8621-f7812c77f5b541bbaaeb0fc3f3032443.yaml
 ./poc/cve/CVE-2025-8622-125077a9e015d7b3c05e063710a14007.yaml
 ./poc/cve/CVE-2025-8676-e218bebb1fc029bf21680deba324bfe4.yaml
+./poc/cve/CVE-2025-8678-97de7fcdfada2de86fce5b6e8633e94e.yaml
 ./poc/cve/CVE-2025-8680-10e87f71317e8d41f955c75ebc6e623c.yaml
 ./poc/cve/CVE-2025-8685-2ed0615344525fe065bc3f5d0d79666a.yaml
 ./poc/cve/CVE-2025-8688-c1101e5e0ea38076e06abf5122d9e979.yaml
@@ -108305,6 +108306,7 @@
 ./poc/cve/CVE-2025-8896-ab4526ef492394b46b6b908630c6d4e7.yaml
 ./poc/cve/CVE-2025-8898-32c05e01e1a14fb16803806d4b87ce1a.yaml
 ./poc/cve/CVE-2025-9202-3b35c3adc8268c05da726864661ed979.yaml
+./poc/cve/CVE-2025-9331-513443f111290b3889d860d27373b331.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
 ./poc/cve/CVE_2023_49442.yaml
 ./poc/cve/CVE_2023_51467.yaml
@@ -144967,6 +144969,7 @@
 ./poc/other/diary.yaml
 ./poc/other/diary_1.yaml
 ./poc/other/dicom-support-a04260e6df9edd77792b6b988802c1a1.yaml
+./poc/other/dicom.yaml
 ./poc/other/different-menus-in-different-pages-e59965083a74b4a97f8ddd63f3e0718d.yaml
 ./poc/other/different-menus-in-different-pages.yaml
 ./poc/other/different-menus-in-different-pages_1.yaml
@@ -175961,6 +175964,7 @@
 ./poc/other/spacer-075ae38a8c1da7cb621b2b71cac6674e.yaml
 ./poc/other/spacer.yaml
 ./poc/other/spacer_1.yaml
+./poc/other/spacious-b87167a8409ea8007834303ea2658205.yaml
 ./poc/other/spam-byebye-909f564930cfdd16314881097f5bbbf5.yaml
 ./poc/other/spam-byebye-9c4ed13a59352187937417840bd59288.yaml
 ./poc/other/spam-byebye.yaml
@@ -205202,6 +205206,7 @@
 ./poc/sql/wp-coupons-and-deals-6477bf18cad6c823db485408d49b337b.yaml
 ./poc/sql/wp-courses-5e681e91dea5ddcdbeaa5dd42dd05efc.yaml
 ./poc/sql/wp-cron-status-checker-6477bf18cad6c823db485408d49b337b.yaml
+./poc/sql/wp-crontrol-6db7c77522917eca09707f4e619d1186.yaml
 ./poc/sql/wp-csv-to-database-f57ce484334221d1f01bd628e5f789f4.yaml
 ./poc/sql/wp-csv-to-database.yaml
 ./poc/sql/wp-custom-admin-interface-e7f4cac9b7138ea771801902dbf93547.yaml

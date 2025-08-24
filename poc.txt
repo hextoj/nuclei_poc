@@ -108280,6 +108280,7 @@
 ./poc/cve/CVE-2025-8151-028529e54733e6e60ef82c93347c997b.yaml
 ./poc/cve/CVE-2025-8152-d4bb2d30cded4418c7995972c15528af.yaml
 ./poc/cve/CVE-2025-8198-0a9fef527f54d4f351b5a874f6654b28.yaml
+./poc/cve/CVE-2025-8208-382290a5eab66136f86b34b8c3ec1512.yaml
 ./poc/cve/CVE-2025-8212-284e87c6140e5a005ea4bf2baaf80f1a.yaml
 ./poc/cve/CVE-2025-8212-43899360c0185b33d6842a4bbddac3c8.yaml
 ./poc/cve/CVE-2025-8216-d4d3cdc25678600f8c9407e407487768.yaml
@@ -172175,6 +172176,7 @@
 ./poc/other/sass-lint_1.yaml
 ./poc/other/sass-lint_2.yaml
 ./poc/other/sass-lint_3.yaml
+./poc/other/sastra-essential-addons-for-elementor-289a43a464667b6063877bd09fa4e3f8.yaml
 ./poc/other/sastra-essential-addons-for-elementor-68802b901f2d79660d61deff34df6965.yaml
 ./poc/other/sastra-essential-addons-for-elementor.yaml
 ./poc/other/sastra-essential-addons-for-elementor_1.yaml

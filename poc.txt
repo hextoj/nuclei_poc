@@ -59934,6 +59934,7 @@
 ./poc/cve/CVE-2019-17662_14.yaml
 ./poc/cve/CVE-2019-17662_15.yaml
 ./poc/cve/CVE-2019-17662_16.yaml
+./poc/cve/CVE-2019-17662_17.yaml
 ./poc/cve/CVE-2019-17662_2.yaml
 ./poc/cve/CVE-2019-17662_3.yaml
 ./poc/cve/CVE-2019-17662_3_1.yaml
